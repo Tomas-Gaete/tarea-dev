@@ -7,3 +7,6 @@ En esta carpeta encontrarás dos templates para el ejercicio: uno en **Python** 
 - Solo necesitas completar **una** de las dos opciones
 
 ¡Éxito! 🚀
+
+EDIT: Resolvi el problema originalmente en python y luego decidí hacerlo en typescript también para tomarlo como un ejercicio de aprendizaje
+EDIT2: Incluyo la explicación de cada solución en su respectivo `README.md` y comentarios dentro del código

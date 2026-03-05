@@ -5,34 +5,43 @@
       "panelH": 2,
       "roofW": 2,
       "roofH": 4,
-      "expected": 4
+	  "overlap":{
+		"width":2,
+		"height":2
+	  },
+      "expected": 6
     },
     {
       "panelW": 1,
       "panelH": 2,
       "roofW": 3,
       "roofH": 5,
-      "expected": 7
+	  "overlap":{
+		"width":2,
+		"height":2
+	  },
+      "expected": 12
     },
     {
-      "panelW": 2,
-      "panelH": 2,
+      "panelW": 1,
+      "panelH": 1,
       "roofW": 1,
       "roofH": 10,
-      "expected": 0
+	  "overlap":{
+		"width":1,
+		"height":1
+	  },
+      "expected": 19
     },
 	{
       "panelW": 2,
       "panelH": 3,
       "roofW": 3,
       "roofH": 2,
-      "expected": 1
-    },
-	{
-      "panelW": 1,
-      "panelH": 1,
-      "roofW": 1,
-      "roofH": 1,
+	  "overlap":{
+		"width":2,
+		"height":2
+	  },
       "expected": 1
     }
   ]
