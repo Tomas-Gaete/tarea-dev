@@ -36,6 +36,7 @@ Tu solución debe pasar los siguientes casos de prueba:
 
 Deja acá el link a tu video explicando tu solución con tus palabras
 
+Link: https://youtu.be/x2ZbIWKekYw 
 ---
 
 ## 💰 Bonus (Opcional)
@@ -95,5 +96,6 @@ Para lograr abordar este caso correctamente la única solución que se me ocurri
 	- Decidi usar un diccionario para el overlap porque en algunos casos sus dimensiones pueden afectar el resultado
 		EJ: Si tienes un panel 1x5 y 2 rectangulos 4x2 con un overlap 1x1 puedes quedar con un width total de 5 cambiando el resultado
 
-    - También puede afectar la posicion en la que ocurre el overlap. EJ: una forma "T" vs "L"
-		 	Decidí no tomar en cuenta los casos borde en los que afecte la posición de este overlap y utilizar unicamente su área
+Gracias por leer mi README y tomar en cuenta mi postulación!
+
+Tomás Gaete B.

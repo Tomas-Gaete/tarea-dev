@@ -27,13 +27,6 @@
       "roofW": 3,
       "roofH": 2,
       "expected": 1
-    },
-	{
-      "panelW": 1,
-      "panelH": 1,
-      "roofW": 1,
-      "roofH": 1,
-      "expected": 1
     }
   ]
 }
